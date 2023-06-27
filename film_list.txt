@@ -1,0 +1,1001 @@
+IMDB TOP 250
+film number: 1
+film name: The Shawshank Redemption
+film year: (1994)
+film point: 9.2 based on 2,757,091 user ratings
+film number: 2
+film name: The Godfather
+film year: (1972)
+film point: 9.2 based on 1,918,459 user ratings
+film number: 3
+film name: The Dark Knight
+film year: (2008)
+film point: 9.0 based on 2,730,072 user ratings
+film number: 4
+film name: The Godfather Part II
+film year: (1974)
+film point: 9.0 based on 1,305,831 user ratings
+film number: 5
+film name: 12 Angry Men
+film year: (1957)
+film point: 9.0 based on 816,816 user ratings
+film number: 6
+film name: Schindler's List
+film year: (1993)
+film point: 8.9 based on 1,389,575 user ratings
+film number: 7
+film name: The Lord of the Rings: The Return of the King
+film year: (2003)
+film point: 8.9 based on 1,893,319 user ratings
+film number: 8
+film name: Pulp Fiction
+film year: (1994)
+film point: 8.8 based on 2,117,084 user ratings
+film number: 9
+film name: The Lord of the Rings: The Fellowship of the Ring
+film year: (2001)
+film point: 8.8 based on 1,921,798 user ratings
+film number: 10
+film name: Il buono, il brutto, il cattivo
+film year: (1966)
+film point: 8.8 based on 779,752 user ratings
+film number: 11
+film name: Forrest Gump
+film year: (1994)
+film point: 8.8 based on 2,144,534 user ratings
+film number: 12
+film name: Spider-Man: Across the Spider-Verse
+film year: (2023)
+film point: 8.8 based on 154,077 user ratings
+film number: 13
+film name: Fight Club
+film year: (1999)
+film point: 8.7 based on 2,195,254 user ratings
+film number: 14
+film name: The Lord of the Rings: The Two Towers
+film year: (2002)
+film point: 8.7 based on 1,708,690 user ratings
+film number: 15
+film name: Inception
+film year: (2010)
+film point: 8.7 based on 2,422,760 user ratings
+film number: 16
+film name: Star Wars: Episode V - The Empire Strikes Back
+film year: (1980)
+film point: 8.7 based on 1,325,698 user ratings
+film number: 17
+film name: The Matrix
+film year: (1999)
+film point: 8.7 based on 1,964,858 user ratings
+film number: 18
+film name: GoodFellas
+film year: (1990)
+film point: 8.7 based on 1,196,577 user ratings
+film number: 19
+film name: One Flew Over the Cuckoo's Nest
+film year: (1975)
+film point: 8.6 based on 1,031,659 user ratings
+film number: 20
+film name: Se7en
+film year: (1995)
+film point: 8.6 based on 1,704,610 user ratings
+film number: 21
+film name: It's a Wonderful Life
+film year: (1946)
+film point: 8.6 based on 473,532 user ratings
+film number: 22
+film name: Shichinin no samurai
+film year: (1954)
+film point: 8.6 based on 353,859 user ratings
+film number: 23
+film name: The Silence of the Lambs
+film year: (1991)
+film point: 8.6 based on 1,472,736 user ratings
+film number: 24
+film name: Saving Private Ryan
+film year: (1998)
+film point: 8.6 based on 1,428,337 user ratings
+film number: 25
+film name: Cidade de Deus
+film year: (2002)
+film point: 8.6 based on 773,075 user ratings
+film number: 26
+film name: Interstellar
+film year: (2014)
+film point: 8.6 based on 1,924,096 user ratings
+film number: 27
+film name: La vita è bella
+film year: (1997)
+film point: 8.6 based on 713,319 user ratings
+film number: 28
+film name: The Green Mile
+film year: (1999)
+film point: 8.6 based on 1,340,538 user ratings
+film number: 29
+film name: Star Wars
+film year: (1977)
+film point: 8.5 based on 1,397,944 user ratings
+film number: 30
+film name: Terminator 2: Judgment Day
+film year: (1991)
+film point: 8.5 based on 1,127,226 user ratings
+film number: 31
+film name: Back to the Future
+film year: (1985)
+film point: 8.5 based on 1,244,201 user ratings
+film number: 32
+film name: Sen to Chihiro no kamikakushi
+film year: (2001)
+film point: 8.5 based on 794,160 user ratings
+film number: 33
+film name: The Pianist
+film year: (2002)
+film point: 8.5 based on 859,695 user ratings
+film number: 34
+film name: Psycho
+film year: (1960)
+film point: 8.5 based on 689,947 user ratings
+film number: 35
+film name: Gisaengchung
+film year: (2019)
+film point: 8.5 based on 861,513 user ratings
+film number: 36
+film name: Léon
+film year: (1994)
+film point: 8.5 based on 1,193,466 user ratings
+film number: 37
+film name: The Lion King
+film year: (1994)
+film point: 8.5 based on 1,089,799 user ratings
+film number: 38
+film name: Gladiator
+film year: (2000)
+film point: 8.5 based on 1,541,211 user ratings
+film number: 39
+film name: American History X
+film year: (1998)
+film point: 8.5 based on 1,146,259 user ratings
+film number: 40
+film name: The Departed
+film year: (2006)
+film point: 8.5 based on 1,361,093 user ratings
+film number: 41
+film name: Whiplash
+film year: (2014)
+film point: 8.5 based on 910,381 user ratings
+film number: 42
+film name: The Prestige
+film year: (2006)
+film point: 8.5 based on 1,369,265 user ratings
+film number: 43
+film name: The Usual Suspects
+film year: (1995)
+film point: 8.5 based on 1,107,252 user ratings
+film number: 44
+film name: Casablanca
+film year: (1942)
+film point: 8.5 based on 585,307 user ratings
+film number: 45
+film name: Hotaru no haka
+film year: (1988)
+film point: 8.5 based on 288,887 user ratings
+film number: 46
+film name: Seppuku
+film year: (1962)
+film point: 8.5 based on 61,505 user ratings
+film number: 47
+film name: The Intouchables
+film year: (2011)
+film point: 8.5 based on 884,645 user ratings
+film number: 48
+film name: Modern Times
+film year: (1936)
+film point: 8.4 based on 249,117 user ratings
+film number: 49
+film name: Once Upon a Time in the West
+film year: (1968)
+film point: 8.4 based on 338,042 user ratings
+film number: 50
+film name: Nuovo Cinema Paradiso
+film year: (1988)
+film point: 8.4 based on 269,401 user ratings
+film number: 51
+film name: Rear Window
+film year: (1954)
+film point: 8.4 based on 503,295 user ratings
+film number: 52
+film name: Alien
+film year: (1979)
+film point: 8.4 based on 906,459 user ratings
+film number: 53
+film name: City Lights
+film year: (1931)
+film point: 8.4 based on 189,062 user ratings
+film number: 54
+film name: Apocalypse Now
+film year: (1979)
+film point: 8.4 based on 684,125 user ratings
+film number: 55
+film name: Memento
+film year: (2000)
+film point: 8.4 based on 1,267,417 user ratings
+film number: 56
+film name: Django Unchained
+film year: (2012)
+film point: 8.4 based on 1,606,277 user ratings
+film number: 57
+film name: Raiders of the Lost Ark
+film year: (1981)
+film point: 8.4 based on 993,272 user ratings
+film number: 58
+film name: WALL·E
+film year: (2008)
+film point: 8.4 based on 1,147,691 user ratings
+film number: 59
+film name: The Lives of Others
+film year: (2006)
+film point: 8.4 based on 397,537 user ratings
+film number: 60
+film name: Sunset Blvd.
+film year: (1950)
+film point: 8.4 based on 227,652 user ratings
+film number: 61
+film name: Paths of Glory
+film year: (1957)
+film point: 8.4 based on 202,843 user ratings
+film number: 62
+film name: Avengers: Infinity War
+film year: (2018)
+film point: 8.4 based on 1,130,766 user ratings
+film number: 63
+film name: The Shining
+film year: (1980)
+film point: 8.4 based on 1,053,154 user ratings
+film number: 64
+film name: The Great Dictator
+film year: (1940)
+film point: 8.4 based on 229,349 user ratings
+film number: 65
+film name: Witness for the Prosecution
+film year: (1957)
+film point: 8.4 based on 130,042 user ratings
+film number: 66
+film name: Spider-Man: Into the Spider-Verse
+film year: (2018)
+film point: 8.4 based on 597,252 user ratings
+film number: 67
+film name: Aliens
+film year: (1986)
+film point: 8.3 based on 734,639 user ratings
+film number: 68
+film name: American Beauty
+film year: (1999)
+film point: 8.3 based on 1,175,968 user ratings
+film number: 69
+film name: The Dark Knight Rises
+film year: (2012)
+film point: 8.3 based on 1,747,795 user ratings
+film number: 70
+film name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+film year: (1964)
+film point: 8.3 based on 501,592 user ratings
+film number: 71
+film name: Inglourious Basterds
+film year: (2009)
+film point: 8.3 based on 1,497,969 user ratings
+film number: 72
+film name: Oldeuboi
+film year: (2003)
+film point: 8.3 based on 598,776 user ratings
+film number: 73
+film name: Coco
+film year: (2017)
+film point: 8.3 based on 538,861 user ratings
+film number: 74
+film name: Amadeus
+film year: (1984)
+film point: 8.3 based on 410,909 user ratings
+film number: 75
+film name: Toy Story
+film year: (1995)
+film point: 8.3 based on 1,022,389 user ratings
+film number: 76
+film name: Braveheart
+film year: (1995)
+film point: 8.3 based on 1,058,156 user ratings
+film number: 77
+film name: Das Boot
+film year: (1981)
+film point: 8.3 based on 256,272 user ratings
+film number: 78
+film name: Joker
+film year: (2019)
+film point: 8.3 based on 1,363,552 user ratings
+film number: 79
+film name: Avengers: Endgame
+film year: (2019)
+film point: 8.3 based on 1,187,971 user ratings
+film number: 80
+film name: Mononoke-hime
+film year: (1997)
+film point: 8.3 based on 408,508 user ratings
+film number: 81
+film name: Good Will Hunting
+film year: (1997)
+film point: 8.3 based on 1,007,652 user ratings
+film number: 82
+film name: Once Upon a Time in America
+film year: (1984)
+film point: 8.3 based on 361,540 user ratings
+film number: 83
+film name: Kimi no na wa.
+film year: (2016)
+film point: 8.3 based on 289,391 user ratings
+film number: 84
+film name: 3 Idiots
+film year: (2009)
+film point: 8.3 based on 412,253 user ratings
+film number: 85
+film name: Singin' in the Rain
+film year: (1952)
+film point: 8.3 based on 249,741 user ratings
+film number: 86
+film name: Tengoku to jigoku
+film year: (1963)
+film point: 8.3 based on 48,133 user ratings
+film number: 87
+film name: Requiem for a Dream
+film year: (2000)
+film point: 8.3 based on 864,110 user ratings
+film number: 88
+film name: Capharnaüm
+film year: (2018)
+film point: 8.3 based on 95,926 user ratings
+film number: 89
+film name: Toy Story 3
+film year: (2010)
+film point: 8.3 based on 858,224 user ratings
+film number: 90
+film name: Star Wars: Episode VI - Return of the Jedi
+film year: (1983)
+film point: 8.3 based on 1,080,960 user ratings
+film number: 91
+film name: Idi i smotri
+film year: (1985)
+film point: 8.3 based on 86,743 user ratings
+film number: 92
+film name: Eternal Sunshine of the Spotless Mind
+film year: (2004)
+film point: 8.3 based on 1,034,307 user ratings
+film number: 93
+film name: 2001: A Space Odyssey
+film year: (1968)
+film point: 8.3 based on 687,856 user ratings
+film number: 94
+film name: Jagten
+film year: (2012)
+film point: 8.3 based on 342,929 user ratings
+film number: 95
+film name: Reservoir Dogs
+film year: (1992)
+film point: 8.3 based on 1,046,147 user ratings
+film number: 96
+film name: Lawrence of Arabia
+film year: (1962)
+film point: 8.2 based on 302,087 user ratings
+film number: 97
+film name: Citizen Kane
+film year: (1941)
+film point: 8.2 based on 451,757 user ratings
+film number: 98
+film name: M - Eine Stadt sucht einen Mörder
+film year: (1931)
+film point: 8.2 based on 162,138 user ratings
+film number: 99
+film name: Ikiru
+film year: (1952)
+film point: 8.2 based on 82,245 user ratings
+film number: 100
+film name: North by Northwest
+film year: (1959)
+film point: 8.2 based on 335,480 user ratings
+film number: 101
+film name: The Apartment
+film year: (1960)
+film point: 8.2 based on 187,217 user ratings
+film number: 102
+film name: Vertigo
+film year: (1958)
+film point: 8.2 based on 411,964 user ratings
+film number: 103
+film name: Le fabuleux destin d'Amélie Poulain
+film year: (2001)
+film point: 8.2 based on 771,275 user ratings
+film number: 104
+film name: Double Indemnity
+film year: (1944)
+film point: 8.2 based on 161,237 user ratings
+film number: 105
+film name: A Clockwork Orange
+film year: (1971)
+film point: 8.2 based on 850,258 user ratings
+film number: 106
+film name: Full Metal Jacket
+film year: (1987)
+film point: 8.2 based on 761,092 user ratings
+film number: 107
+film name: Scarface
+film year: (1983)
+film point: 8.2 based on 869,629 user ratings
+film number: 108
+film name: Hamilton
+film year: (2020)
+film point: 8.2 based on 102,456 user ratings
+film number: 109
+film name: Incendies
+film year: (2010)
+film point: 8.2 based on 185,062 user ratings
+film number: 110
+film name: Heat
+film year: (1995)
+film point: 8.2 based on 679,996 user ratings
+film number: 111
+film name: Up
+film year: (2009)
+film point: 8.2 based on 1,074,014 user ratings
+film number: 112
+film name: To Kill a Mockingbird
+film year: (1962)
+film point: 8.2 based on 323,028 user ratings
+film number: 113
+film name: The Sting
+film year: (1973)
+film point: 8.2 based on 270,212 user ratings
+film number: 114
+film name: Jodaeiye Nader az Simin
+film year: (2011)
+film point: 8.2 based on 250,060 user ratings
+film number: 115
+film name: Metropolis
+film year: (1927)
+film point: 8.2 based on 178,717 user ratings
+film number: 116
+film name: Die Hard
+film year: (1988)
+film point: 8.2 based on 903,642 user ratings
+film number: 117
+film name: L.A. Confidential
+film year: (1997)
+film point: 8.2 based on 594,663 user ratings
+film number: 118
+film name: Indiana Jones and the Last Crusade
+film year: (1989)
+film point: 8.2 based on 775,237 user ratings
+film number: 119
+film name: Snatch
+film year: (2000)
+film point: 8.2 based on 876,471 user ratings
+film number: 120
+film name: Ladri di biciclette
+film year: (1948)
+film point: 8.2 based on 168,105 user ratings
+film number: 121
+film name: Taxi Driver
+film year: (1976)
+film point: 8.2 based on 868,115 user ratings
+film number: 122
+film name: Taare Zameen Par
+film year: (2007)
+film point: 8.2 based on 198,636 user ratings
+film number: 123
+film name: 1917
+film year: (2019)
+film point: 8.2 based on 624,992 user ratings
+film number: 124
+film name: Dangal
+film year: (2016)
+film point: 8.2 based on 198,156 user ratings
+film number: 125
+film name: Der Untergang
+film year: (2004)
+film point: 8.2 based on 363,256 user ratings
+film number: 126
+film name: Top Gun: Maverick
+film year: (2022)
+film point: 8.2 based on 600,378 user ratings
+film number: 127
+film name: Per qualche dollaro in più
+film year: (1965)
+film point: 8.2 based on 263,566 user ratings
+film number: 128
+film name: Batman Begins
+film year: (2005)
+film point: 8.2 based on 1,508,634 user ratings
+film number: 129
+film name: The Kid
+film year: (1921)
+film point: 8.2 based on 129,704 user ratings
+film number: 130
+film name: Some Like It Hot
+film year: (1959)
+film point: 8.2 based on 273,903 user ratings
+film number: 131
+film name: The Father
+film year: (2020)
+film point: 8.2 based on 170,557 user ratings
+film number: 132
+film name: The Wolf of Wall Street
+film year: (2013)
+film point: 8.2 based on 1,470,714 user ratings
+film number: 133
+film name: All About Eve
+film year: (1950)
+film point: 8.2 based on 134,413 user ratings
+film number: 134
+film name: Green Book
+film year: (2018)
+film point: 8.2 based on 522,403 user ratings
+film number: 135
+film name: Judgment at Nuremberg
+film year: (1961)
+film point: 8.2 based on 80,284 user ratings
+film number: 136
+film name: The Truman Show
+film year: (1998)
+film point: 8.2 based on 1,122,026 user ratings
+film number: 137
+film name: Ran
+film year: (1985)
+film point: 8.2 based on 129,716 user ratings
+film number: 138
+film name: Casino
+film year: (1995)
+film point: 8.2 based on 536,819 user ratings
+film number: 139
+film name: There Will Be Blood
+film year: (2007)
+film point: 8.2 based on 605,470 user ratings
+film number: 140
+film name: Pan's Labyrinth
+film year: (2006)
+film point: 8.2 based on 682,450 user ratings
+film number: 141
+film name: Shutter Island
+film year: (2010)
+film point: 8.2 based on 1,367,375 user ratings
+film number: 142
+film name: Unforgiven
+film year: (1992)
+film point: 8.2 based on 422,056 user ratings
+film number: 143
+film name: The Sixth Sense
+film year: (1999)
+film point: 8.2 based on 1,013,618 user ratings
+film number: 144
+film name: Jurassic Park
+film year: (1993)
+film point: 8.2 based on 1,018,551 user ratings
+film number: 145
+film name: A Beautiful Mind
+film year: (2001)
+film point: 8.2 based on 952,774 user ratings
+film number: 146
+film name: The Treasure of the Sierra Madre
+film year: (1948)
+film point: 8.1 based on 128,298 user ratings
+film number: 147
+film name: Yôjinbô
+film year: (1961)
+film point: 8.1 based on 126,246 user ratings
+film number: 148
+film name: Monty Python and the Holy Grail
+film year: (1975)
+film point: 8.1 based on 553,217 user ratings
+film number: 149
+film name: No Country for Old Men
+film year: (2007)
+film point: 8.1 based on 1,005,337 user ratings
+film number: 150
+film name: Kill Bill: Vol. 1
+film year: (2003)
+film point: 8.1 based on 1,144,221 user ratings
+film number: 151
+film name: The Great Escape
+film year: (1963)
+film point: 8.1 based on 250,151 user ratings
+film number: 152
+film name: Rashômon
+film year: (1950)
+film point: 8.1 based on 173,255 user ratings
+film number: 153
+film name: The Thing
+film year: (1982)
+film point: 8.1 based on 440,503 user ratings
+film number: 154
+film name: Finding Nemo
+film year: (2003)
+film point: 8.1 based on 1,070,166 user ratings
+film number: 155
+film name: Spider-Man: No Way Home
+film year: (2021)
+film point: 8.1 based on 806,485 user ratings
+film number: 156
+film name: The Elephant Man
+film year: (1980)
+film point: 8.1 based on 248,703 user ratings
+film number: 157
+film name: Chinatown
+film year: (1974)
+film point: 8.1 based on 335,699 user ratings
+film number: 158
+film name: Raging Bull
+film year: (1980)
+film point: 8.1 based on 364,254 user ratings
+film number: 159
+film name: V for Vendetta
+film year: (2005)
+film point: 8.1 based on 1,143,396 user ratings
+film number: 160
+film name: Gone with the Wind
+film year: (1939)
+film point: 8.1 based on 323,244 user ratings
+film number: 161
+film name: Dial M for Murder
+film year: (1954)
+film point: 8.1 based on 181,201 user ratings
+film number: 162
+film name: Hauru no ugoku shiro
+film year: (2004)
+film point: 8.1 based on 414,496 user ratings
+film number: 163
+film name: Lock, Stock and Two Smoking Barrels
+film year: (1998)
+film point: 8.1 based on 596,657 user ratings
+film number: 164
+film name: Inside Out
+film year: (2015)
+film point: 8.1 based on 740,234 user ratings
+film number: 165
+film name: El secreto de sus ojos
+film year: (2009)
+film point: 8.1 based on 214,706 user ratings
+film number: 166
+film name: Three Billboards Outside Ebbing, Missouri
+film year: (2017)
+film point: 8.1 based on 528,006 user ratings
+film number: 167
+film name: Prisoners
+film year: (2013)
+film point: 8.1 based on 750,878 user ratings
+film number: 168
+film name: Trainspotting
+film year: (1996)
+film point: 8.1 based on 702,728 user ratings
+film number: 169
+film name: The Bridge on the River Kwai
+film year: (1957)
+film point: 8.1 based on 226,212 user ratings
+film number: 170
+film name: Guardians of the Galaxy Vol. 3
+film year: (2023)
+film point: 8.1 based on 178,162 user ratings
+film number: 171
+film name: Fargo
+film year: (1996)
+film point: 8.1 based on 694,619 user ratings
+film number: 172
+film name: Warrior
+film year: (2011)
+film point: 8.1 based on 482,906 user ratings
+film number: 173
+film name: Gran Torino
+film year: (2008)
+film point: 8.1 based on 791,399 user ratings
+film number: 174
+film name: Catch Me If You Can
+film year: (2002)
+film point: 8.1 based on 1,026,477 user ratings
+film number: 175
+film name: Tonari no Totoro
+film year: (1988)
+film point: 8.1 based on 354,546 user ratings
+film number: 176
+film name: Million Dollar Baby
+film year: (2004)
+film point: 8.1 based on 701,412 user ratings
+film number: 177
+film name: Bacheha-Ye aseman
+film year: (1997)
+film point: 8.1 based on 77,017 user ratings
+film number: 178
+film name: Klaus
+film year: (2019)
+film point: 8.1 based on 167,268 user ratings
+film number: 179
+film name: Blade Runner
+film year: (1982)
+film point: 8.1 based on 790,606 user ratings
+film number: 180
+film name: The Gold Rush
+film year: (1925)
+film point: 8.1 based on 114,211 user ratings
+film number: 181
+film name: Harry Potter and the Deathly Hallows: Part 2
+film year: (2011)
+film point: 8.1 based on 903,962 user ratings
+film number: 182
+film name: 12 Years a Slave
+film year: (2013)
+film point: 8.1 based on 717,603 user ratings
+film number: 183
+film name: Before Sunrise
+film year: (1995)
+film point: 8.1 based on 321,803 user ratings
+film number: 184
+film name: The Grand Budapest Hotel
+film year: (2014)
+film point: 8.1 based on 842,574 user ratings
+film number: 185
+film name: Ben-Hur
+film year: (1959)
+film point: 8.1 based on 245,729 user ratings
+film number: 186
+film name: Gone Girl
+film year: (2014)
+film point: 8.1 based on 1,012,077 user ratings
+film number: 187
+film name: On the Waterfront
+film year: (1954)
+film point: 8.1 based on 158,959 user ratings
+film number: 188
+film name: Barry Lyndon
+film year: (1975)
+film point: 8.1 based on 174,386 user ratings
+film number: 189
+film name: The General
+film year: (1926)
+film point: 8.1 based on 94,158 user ratings
+film number: 190
+film name: Smultronstället
+film year: (1957)
+film point: 8.1 based on 110,317 user ratings
+film number: 191
+film name: In the Name of the Father
+film year: (1993)
+film point: 8.1 based on 180,334 user ratings
+film number: 192
+film name: The Deer Hunter
+film year: (1978)
+film point: 8.1 based on 347,625 user ratings
+film number: 193
+film name: Hacksaw Ridge
+film year: (2016)
+film point: 8.1 based on 552,977 user ratings
+film number: 194
+film name: The Third Man
+film year: (1949)
+film point: 8.1 based on 175,765 user ratings
+film number: 195
+film name: Le salaire de la peur
+film year: (1953)
+film point: 8.1 based on 63,383 user ratings
+film number: 196
+film name: Salinui chueok
+film year: (2003)
+film point: 8.1 based on 197,169 user ratings
+film number: 197
+film name: Sherlock Jr.
+film year: (1924)
+film point: 8.1 based on 52,750 user ratings
+film number: 198
+film name: Relatos salvajes
+film year: (2014)
+film point: 8.1 based on 206,106 user ratings
+film number: 199
+film name: Mr. Smith Goes to Washington
+film year: (1939)
+film point: 8.1 based on 117,879 user ratings
+film number: 200
+film name: Mad Max: Fury Road
+film year: (2015)
+film point: 8.1 based on 1,033,801 user ratings
+film number: 201
+film name: Mary and Max.
+film year: (2009)
+film point: 8.1 based on 181,240 user ratings
+film number: 202
+film name: Dead Poets Society
+film year: (1989)
+film point: 8.1 based on 512,332 user ratings
+film number: 203
+film name: How to Train Your Dragon
+film year: (2010)
+film point: 8.1 based on 764,416 user ratings
+film number: 204
+film name: Monsters, Inc.
+film year: (2001)
+film point: 8.1 based on 935,731 user ratings
+film number: 205
+film name: Det sjunde inseglet
+film year: (1957)
+film point: 8.1 based on 190,462 user ratings
+film number: 206
+film name: Jaws
+film year: (1975)
+film point: 8.1 based on 626,974 user ratings
+film number: 207
+film name: Room
+film year: (2015)
+film point: 8.1 based on 433,081 user ratings
+film number: 208
+film name: Tôkyô monogatari
+film year: (1953)
+film point: 8.1 based on 64,391 user ratings
+film number: 209
+film name: The Big Lebowski
+film year: (1998)
+film point: 8.1 based on 829,452 user ratings
+film number: 210
+film name: Ford v Ferrari
+film year: (2019)
+film point: 8.1 based on 422,603 user ratings
+film number: 211
+film name: La passion de Jeanne d'Arc
+film year: (1928)
+film point: 8.0 based on 57,512 user ratings
+film number: 212
+film name: Hotel Rwanda
+film year: (2004)
+film point: 8.0 based on 362,604 user ratings
+film number: 213
+film name: Ratatouille
+film year: (2007)
+film point: 8.0 based on 771,072 user ratings
+film number: 214
+film name: Rocky
+film year: (1976)
+film point: 8.0 based on 600,834 user ratings
+film number: 215
+film name: Platoon
+film year: (1986)
+film point: 8.0 based on 424,348 user ratings
+film number: 216
+film name: Logan
+film year: (2017)
+film point: 8.0 based on 791,164 user ratings
+film number: 217
+film name: Spotlight
+film year: (2015)
+film point: 8.0 based on 483,691 user ratings
+film number: 218
+film name: The Terminator
+film year: (1984)
+film point: 8.0 based on 888,797 user ratings
+film number: 219
+film name: Jai Bhim
+film year: (2021)
+film point: 8.0 based on 207,504 user ratings
+film number: 220
+film name: Rush
+film year: (2013)
+film point: 8.0 based on 492,629 user ratings
+film number: 221
+film name: Before Sunset
+film year: (2004)
+film point: 8.0 based on 274,953 user ratings
+film number: 222
+film name: Stand by Me
+film year: (1986)
+film point: 8.0 based on 419,079 user ratings
+film number: 223
+film name: Network
+film year: (1976)
+film point: 8.0 based on 163,983 user ratings
+film number: 224
+film name: Into the Wild
+film year: (2007)
+film point: 8.0 based on 636,658 user ratings
+film number: 225
+film name: The Wizard of Oz
+film year: (1939)
+film point: 8.0 based on 411,702 user ratings
+film number: 226
+film name: The Best Years of Our Lives
+film year: (1946)
+film point: 8.0 based on 67,315 user ratings
+film number: 227
+film name: The Exorcist
+film year: (1973)
+film point: 8.0 based on 423,022 user ratings
+film number: 228
+film name: La haine
+film year: (1995)
+film point: 8.0 based on 182,292 user ratings
+film number: 229
+film name: The Incredibles
+film year: (2004)
+film point: 8.0 based on 765,447 user ratings
+film number: 230
+film name: Pirates of the Caribbean: The Curse of the Black Pearl
+film year: (2003)
+film point: 8.0 based on 1,157,706 user ratings
+film number: 231
+film name: To Be or Not to Be
+film year: (1942)
+film point: 8.0 based on 39,855 user ratings
+film number: 232
+film name: Groundhog Day
+film year: (1993)
+film point: 8.0 based on 653,142 user ratings
+film number: 233
+film name: Babam ve Oglum
+film year: (2005)
+film point: 8.0 based on 88,611 user ratings
+film number: 234
+film name: The Grapes of Wrath
+film year: (1940)
+film point: 8.0 based on 96,418 user ratings
+film number: 235
+film name: La battaglia di Algeri
+film year: (1966)
+film point: 8.0 based on 62,632 user ratings
+film number: 236
+film name: Hachi: A Dog's Tale
+film year: (2009)
+film point: 8.0 based on 296,083 user ratings
+film number: 237
+film name: Ah-ga-ssi
+film year: (2016)
+film point: 8.0 based on 158,101 user ratings
+film number: 238
+film name: Pather Panchali
+film year: (1955)
+film point: 8.0 based on 35,242 user ratings
+film number: 239
+film name: Amores perros
+film year: (2000)
+film point: 8.0 based on 245,913 user ratings
+film number: 240
+film name: Rebecca
+film year: (1940)
+film point: 8.0 based on 141,182 user ratings
+film number: 241
+film name: Cool Hand Luke
+film year: (1967)
+film point: 8.0 based on 182,308 user ratings
+film number: 242
+film name: The Sound of Music
+film year: (1965)
+film point: 8.0 based on 245,592 user ratings
+film number: 243
+film name: It Happened One Night
+film year: (1934)
+film point: 8.0 based on 107,662 user ratings
+film number: 244
+film name: Les quatre cents coups
+film year: (1959)
+film point: 8.0 based on 122,569 user ratings
+film number: 245
+film name: Persona
+film year: (1966)
+film point: 8.0 based on 124,157 user ratings
+film number: 246
+film name: The Help
+film year: (2011)
+film point: 8.0 based on 473,957 user ratings
+film number: 247
+film name: The Iron Giant
+film year: (1999)
+film point: 8.0 based on 210,712 user ratings
+film number: 248
+film name: Life of Brian
+film year: (1979)
+film point: 8.0 based on 409,985 user ratings
+film number: 249
+film name: Aladdin
+film year: (1992)
+film point: 8.0 based on 439,562 user ratings
+film number: 250
+film name: Dances with Wolves
+film year: (1990)
+film point: 8.0 based on 277,609 user ratings
